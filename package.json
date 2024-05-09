@@ -22,9 +22,9 @@
   },
   "dependencies": {
     "less": "1.7.x",
-    "express": "4.10.x",
+    "express": "4.19.x",
     "jshint": "2.5.x",
-    "request": "2.47.x"
+    "request": "2.88.x"
   },
   "homepage": "http://www.charted.co/"
 }
